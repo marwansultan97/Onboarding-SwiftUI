@@ -7,19 +7,47 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CB8F86172734AA7B0026F1BA /* PeelPageIndicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB8F86162734AA7B0026F1BA /* PeelPageIndicator.swift */; };
 		CB8FC2122732C9C00029E537 /* Onboarding_SwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB8FC2112732C9C00029E537 /* Onboarding_SwiftUIApp.swift */; };
-		CB8FC2142732C9C00029E537 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB8FC2132732C9C00029E537 /* ContentView.swift */; };
 		CB8FC2162732C9C20029E537 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB8FC2152732C9C20029E537 /* Assets.xcassets */; };
 		CB8FC2192732C9C20029E537 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB8FC2182732C9C20029E537 /* Preview Assets.xcassets */; };
+		CB8FC2252732D0390029E537 /* FadingOnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB8FC2242732D0390029E537 /* FadingOnboardingView.swift */; };
+		CB8FC2272732D04D0029E537 /* TextAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB8FC2262732D04D0029E537 /* TextAnimation.swift */; };
+		CB8FC22A2732D0ED0029E537 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB8FC2292732D0ED0029E537 /* Constants.swift */; };
+		CB8FC22E2732EC940029E537 /* DotInversionOnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB8FC22D2732EC940029E537 /* DotInversionOnboardingView.swift */; };
+		CB8FC230273329320029E537 /* DotScreenModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB8FC22F273329320029E537 /* DotScreenModel.swift */; };
+		CB8FC2332733478A0029E537 /* View+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB8FC2322733478A0029E537 /* View+Extension.swift */; };
+		CB8FC237273403C40029E537 /* SkipButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB8FC236273403C40029E537 /* SkipButton.swift */; };
+		CB8FC239273404580029E537 /* PageIndicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB8FC238273404580029E537 /* PageIndicator.swift */; };
+		CB8FC23B273405060029E537 /* SigninButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB8FC23A273405060029E537 /* SigninButton.swift */; };
+		CB8FC23F27340D0D0029E537 /* PeelAwayOnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB8FC23E27340D0D0029E537 /* PeelAwayOnboardingView.swift */; };
+		CB8FC24127340D740029E537 /* PeelScreenModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB8FC24027340D740029E537 /* PeelScreenModel.swift */; };
+		CB8FC2432734149F0029E537 /* LiquidView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB8FC2422734149F0029E537 /* LiquidView.swift */; };
+		CB94BE582738075500D2C94D /* BackButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB94BE572738075500D2C94D /* BackButton.swift */; };
+		CB94BE5B27380AB400D2C94D /* ContainerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB94BE5A27380AB400D2C94D /* ContainerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CB8F86162734AA7B0026F1BA /* PeelPageIndicator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PeelPageIndicator.swift; sourceTree = "<group>"; };
 		CB8FC20E2732C9C00029E537 /* Onboarding-SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Onboarding-SwiftUI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB8FC2112732C9C00029E537 /* Onboarding_SwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Onboarding_SwiftUIApp.swift; sourceTree = "<group>"; };
-		CB8FC2132732C9C00029E537 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CB8FC2152732C9C20029E537 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CB8FC2182732C9C20029E537 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CB8FC21A2732C9C20029E537 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CB8FC2242732D0390029E537 /* FadingOnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FadingOnboardingView.swift; sourceTree = "<group>"; };
+		CB8FC2262732D04D0029E537 /* TextAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextAnimation.swift; sourceTree = "<group>"; };
+		CB8FC2292732D0ED0029E537 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		CB8FC22D2732EC940029E537 /* DotInversionOnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DotInversionOnboardingView.swift; sourceTree = "<group>"; };
+		CB8FC22F273329320029E537 /* DotScreenModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DotScreenModel.swift; sourceTree = "<group>"; };
+		CB8FC2322733478A0029E537 /* View+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "View+Extension.swift"; sourceTree = "<group>"; };
+		CB8FC236273403C40029E537 /* SkipButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkipButton.swift; sourceTree = "<group>"; };
+		CB8FC238273404580029E537 /* PageIndicator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageIndicator.swift; sourceTree = "<group>"; };
+		CB8FC23A273405060029E537 /* SigninButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SigninButton.swift; sourceTree = "<group>"; };
+		CB8FC23E27340D0D0029E537 /* PeelAwayOnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PeelAwayOnboardingView.swift; sourceTree = "<group>"; };
+		CB8FC24027340D740029E537 /* PeelScreenModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PeelScreenModel.swift; sourceTree = "<group>"; };
+		CB8FC2422734149F0029E537 /* LiquidView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiquidView.swift; sourceTree = "<group>"; };
+		CB94BE572738075500D2C94D /* BackButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackButton.swift; sourceTree = "<group>"; };
+		CB94BE5A27380AB400D2C94D /* ContainerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,10 +80,14 @@
 		CB8FC2102732C9C00029E537 /* Onboarding-SwiftUI */ = {
 			isa = PBXGroup;
 			children = (
-				CB8FC2112732C9C00029E537 /* Onboarding_SwiftUIApp.swift */,
-				CB8FC2132732C9C00029E537 /* ContentView.swift */,
-				CB8FC2152732C9C20029E537 /* Assets.xcassets */,
-				CB8FC21A2732C9C20029E537 /* Info.plist */,
+				CB8FC2212732C9DE0029E537 /* App */,
+				CB8FC231273347780029E537 /* Utils */,
+				CB8FC2282732D0DE0029E537 /* Constants */,
+				CB8FC2222732C9ED0029E537 /* Resources */,
+				CB94BE5927380A9400D2C94D /* ContainerView */,
+				CB8FC23C273405800029E537 /* PeelAwayOnboardingView */,
+				CB8FC22B2732EC6C0029E537 /* DotInversionOnboarding */,
+				CB8FC2202732C9CD0029E537 /* FadingOnboarding */,
 				CB8FC2172732C9C20029E537 /* Preview Content */,
 			);
 			path = "Onboarding-SwiftUI";
@@ -67,6 +99,80 @@
 				CB8FC2182732C9C20029E537 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		CB8FC2202732C9CD0029E537 /* FadingOnboarding */ = {
+			isa = PBXGroup;
+			children = (
+				CB8FC2242732D0390029E537 /* FadingOnboardingView.swift */,
+				CB8FC23A273405060029E537 /* SigninButton.swift */,
+				CB8FC2262732D04D0029E537 /* TextAnimation.swift */,
+			);
+			path = FadingOnboarding;
+			sourceTree = "<group>";
+		};
+		CB8FC2212732C9DE0029E537 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				CB8FC21A2732C9C20029E537 /* Info.plist */,
+				CB8FC2112732C9C00029E537 /* Onboarding_SwiftUIApp.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		CB8FC2222732C9ED0029E537 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				CB8FC2152732C9C20029E537 /* Assets.xcassets */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		CB8FC2282732D0DE0029E537 /* Constants */ = {
+			isa = PBXGroup;
+			children = (
+				CB8FC2292732D0ED0029E537 /* Constants.swift */,
+			);
+			path = Constants;
+			sourceTree = "<group>";
+		};
+		CB8FC22B2732EC6C0029E537 /* DotInversionOnboarding */ = {
+			isa = PBXGroup;
+			children = (
+				CB8FC22D2732EC940029E537 /* DotInversionOnboardingView.swift */,
+				CB8FC238273404580029E537 /* PageIndicator.swift */,
+				CB8FC236273403C40029E537 /* SkipButton.swift */,
+				CB8FC22F273329320029E537 /* DotScreenModel.swift */,
+			);
+			path = DotInversionOnboarding;
+			sourceTree = "<group>";
+		};
+		CB8FC231273347780029E537 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				CB8FC2322733478A0029E537 /* View+Extension.swift */,
+				CB94BE572738075500D2C94D /* BackButton.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		CB8FC23C273405800029E537 /* PeelAwayOnboardingView */ = {
+			isa = PBXGroup;
+			children = (
+				CB8FC23E27340D0D0029E537 /* PeelAwayOnboardingView.swift */,
+				CB8FC2422734149F0029E537 /* LiquidView.swift */,
+				CB8F86162734AA7B0026F1BA /* PeelPageIndicator.swift */,
+				CB8FC24027340D740029E537 /* PeelScreenModel.swift */,
+			);
+			path = PeelAwayOnboardingView;
+			sourceTree = "<group>";
+		};
+		CB94BE5927380A9400D2C94D /* ContainerView */ = {
+			isa = PBXGroup;
+			children = (
+				CB94BE5A27380AB400D2C94D /* ContainerView.swift */,
+			);
+			path = ContainerView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,8 +244,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CB8FC2142732C9C00029E537 /* ContentView.swift in Sources */,
+				CB8FC2252732D0390029E537 /* FadingOnboardingView.swift in Sources */,
+				CB8FC2272732D04D0029E537 /* TextAnimation.swift in Sources */,
 				CB8FC2122732C9C00029E537 /* Onboarding_SwiftUIApp.swift in Sources */,
+				CB8FC23F27340D0D0029E537 /* PeelAwayOnboardingView.swift in Sources */,
+				CB8FC23B273405060029E537 /* SigninButton.swift in Sources */,
+				CB8FC230273329320029E537 /* DotScreenModel.swift in Sources */,
+				CB8FC22E2732EC940029E537 /* DotInversionOnboardingView.swift in Sources */,
+				CB8FC2432734149F0029E537 /* LiquidView.swift in Sources */,
+				CB8F86172734AA7B0026F1BA /* PeelPageIndicator.swift in Sources */,
+				CB8FC24127340D740029E537 /* PeelScreenModel.swift in Sources */,
+				CB8FC2332733478A0029E537 /* View+Extension.swift in Sources */,
+				CB8FC237273403C40029E537 /* SkipButton.swift in Sources */,
+				CB94BE5B27380AB400D2C94D /* ContainerView.swift in Sources */,
+				CB8FC239273404580029E537 /* PageIndicator.swift in Sources */,
+				CB8FC22A2732D0ED0029E537 /* Constants.swift in Sources */,
+				CB94BE582738075500D2C94D /* BackButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -271,7 +391,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"Onboarding-SwiftUI/Preview Content\"";
 				DEVELOPMENT_TEAM = J65YQ3P529;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = "Onboarding-SwiftUI/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/Onboarding-SwiftUI/App/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -293,7 +413,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"Onboarding-SwiftUI/Preview Content\"";
 				DEVELOPMENT_TEAM = J65YQ3P529;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = "Onboarding-SwiftUI/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/Onboarding-SwiftUI/App/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",

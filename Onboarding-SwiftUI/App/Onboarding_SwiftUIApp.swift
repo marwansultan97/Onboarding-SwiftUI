@@ -9,9 +9,10 @@ import SwiftUI
 
 @main
 struct Onboarding_SwiftUIApp: App {
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContainerView()
         }
     }
 }
